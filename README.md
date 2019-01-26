@@ -135,21 +135,33 @@ Now that you are able to use both header and background images, you can try usin
 3.  You can preview the display of settings before publishing your work.
 4.  Customizer images improve the SEO of a website.
 
-**Answer:** 3\. You can preview the display of settings before publishing your work. **What's an important practice for selecting and preparing a header image?**
+**Answer:** 3\. You can preview the display of settings before publishing your work. 
+
+<hr>
+
+**What's an important practice for selecting and preparing a header image?**
 
 1.  Change the image file type to a JPG.
 2.  Determine if your theme recommends a header size.
 3.  First upload the image to the Media Library.
 4.  Crop the image before uploading to whatever size you prefer.
 
-**Answer:** 2\. Determine if your theme recommends a header size. **What types of images work best for a background image?**
+**Answer:** 2\. Determine if your theme recommends a header size. 
+
+<hr>
+
+**What types of images work best for a background image?**
 
 1.  The largest possible to display on all possible desktop monitors.
 2.  GIF format images with a limited color range.
 3.  Landscape photographs with sunsets.
 4.  Small images with patterns that can be repeated.
 
-**Answer:** 4\. Small images with patterns that can be repeated. **What happens when you change themes in the Customizer?**
+**Answer:** 4\. Small images with patterns that can be repeated. 
+
+<hr>
+
+**What happens when you change themes in the Customizer?**
 
 1.  WordPress saves settings for the prior theme, but doesn't apply them to the current theme
 2.  WordPress asks if you want to Save or Publish each of the two themes.
