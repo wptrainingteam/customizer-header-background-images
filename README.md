@@ -95,9 +95,9 @@ Select an image of your own or from a website with free-to-use or public domain 
 
 ![Customizer Background Image Settings](https://make.wordpress.org/training/files/2016/11/background-image-settings.png) There are three basic options for the background image:
 
-*   **Background Repeat: **No Repeat, Tile, Tile Horizontally, or Tile Vertically
-*   **Background Position: A**llow image to be positioned Left, Center, or Right
-*   **Background Attachment: **Scroll background or display as Fixed
+*   **Background Repeat:** No Repeat, Tile, Tile Horizontally, or Tile Vertically
+*   **Background Position:** Allow image to be positioned Left, Center, or Right
+*   **Background Attachment:** Scroll background or display as Fixed
 
 Try changing all of these options to the various settings to preview how the affect the display of the background image, including different combinations of the three options. When setting the Background Attachment option, you will need to test the preview by scrolling the page in the preview panel. With some options, the image may seem to disappear entirely, but that is due to a limited use of the image that is hidden behind another element in the foreground. When you are satisfied with your background image, be sure to Save & Publish your work.
 
